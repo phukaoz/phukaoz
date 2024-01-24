@@ -1,6 +1,14 @@
 ## Hi!,
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=phukaoz&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />&nbsp;               
+<p align="left">
+  <a href="https://github.com/phukaoz/">
+    <img src="https://komarev.com/ghpvc/?username=phukaoz" alt="visitors" />
+  </a>
+  <a href="https://github.com/phukaoz?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/phukaoz?color=green&logo=github">
+  </a>
+  <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
 </p>
 
 My name is Tanapat Namsomboon, student of the department of Computer Engineering from KMUTT.\
@@ -29,6 +37,6 @@ I really addicted to competitive programming.
 - [Codeforce](https://codeforces.com/profile/phukaoz)
 - [Atcoder](https://atcoder.jp/users/phukaoz)
 - [Codechef](https://www.codechef.com/users/phukao)
-<br><br><br>
+  
 ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg)
