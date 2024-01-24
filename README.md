@@ -37,15 +37,16 @@ I really addicted to competitive programming.
   
 ![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </p>
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-  
-  <img height="273em" src="https://leetcard.jacoblin.cool/phukaoz?theme=light&font=Karma&ext=contest" />
-  
-  ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#)
+ 
+  ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
   
 </p>
 
