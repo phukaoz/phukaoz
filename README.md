@@ -31,16 +31,19 @@ I really addicted to competitive programming.
 </div>
 
 #### Development Stuffs:
+<!---
 <b>⚡ Github Stats</b>
 <p float="left">
 <img height="205em" src="https://raw.githubusercontent.com/phukaoz/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
 <img height="205em" src="https://raw.githubusercontent.com/phukaoz/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
-
+--->
 <b>&#128200; Competitive Programming</b>
 <p float="left">
+  <!---
 <img height="273em" src="https://leetcard.jacoblin.cool/phukaoz?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg" />
+--->
+  <img height="280em" src="https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg" />
 </p>
 
 #### Connect With Me
