@@ -1,15 +1,10 @@
 ## Hi!,
-
 <p align="left">
-  <a href="https://github.com/phukaoz/">
-    <img src="https://komarev.com/ghpvc/?username=phukaoz" alt="visitors" />
-  </a>
-  <a href="https://github.com/phukaoz?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/phukaoz?color=green&logo=github">
-  </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=phukaoz)
+  ![Follower Badge](https://img.shields.io/github/followers/phukaoz?color=green&logo=github)
+  ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=phukaoz)
+  ![Leetcode Badge](https://badges.peiyuan.ch/leetcode/phukaoz/ranking?logo=leetcode&label=leetcode&color=green)
 </p>
 
 #### Bio
