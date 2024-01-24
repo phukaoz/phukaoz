@@ -44,7 +44,8 @@ I really addicted to competitive programming.
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
- 
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/phukaoz?theme=dark&font=NTR&ext=activity)
   ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-light-mode-only)
   ![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
   
