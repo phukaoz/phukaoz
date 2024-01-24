@@ -11,19 +11,16 @@
   </a>
 </p>
 
+#### Bio
+
 My name is Tanapat Namsomboon, student of the department of Computer Engineering from KMUTT.\
 I really addicted to competitive programming.
-- 🔭 I’m interested in Competitive Programming, Game Development, AI/Machine Learning.
-- 🌱 I’m currently learning Machine Learning
-- ⚡ Fun fact: I just started serious programming when I entered university.
+- ⚙️ I use daily: `.c`, `.cpp`, `.go`, `.py`
+- 🌍 I'm mostly active within the **Codeforce Community**
+- 🌱 Learning all about **Machine Learning**
+- 💬 Ping me about **Competitive Programming**, **Python**, **C**, **C++**, **Machine Learning**
 
-## Contact
-- [Facebook](https://www.facebook.com/profile.php?id=100010214524752)
-- [Instragram](https://www.instagram.com/phukao.cpp/)
-- [LinkedIn](https://www.linkedin.com/in/tanapat-namsomboon-a825612a5/)
-
-## Skills
-### Languages:
+#### Skills
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="C" alt="C"/>&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>&nbsp;
@@ -33,10 +30,28 @@ I really addicted to competitive programming.
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python"/>&nbsp;
 </div>
 
-## Competitve Programming Profile
-- [Codeforce](https://codeforces.com/profile/phukaoz)
-- [Atcoder](https://atcoder.jp/users/phukaoz)
-- [Codechef](https://www.codechef.com/users/phukao)
-  
-![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg)
+#### Development Stuffs:
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="205em" src="https://raw.githubusercontent.com/phukaoz/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="205em" src="https://raw.githubusercontent.com/phukaoz/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</p>
+
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/phukaoz?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg" />
+</p>
+
+#### Connect With Me
+<p left="center">
+<a href="https://www.linkedin.com/in/tanapat-namsomboon-a825612a5/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/profile.php?id=100010214524752">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="tnpkofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
