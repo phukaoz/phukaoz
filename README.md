@@ -1,4 +1,5 @@
 ## Hi!,
+
 <p align="left">
   <a href="https://github.com/phukaoz/">
     <img src="https://komarev.com/ghpvc/?username=phukaoz" alt="visitors" />
@@ -46,10 +47,7 @@ I really addicted to competitive programming.
 <p float="left">
   
   [![Leetcode Stats](https://leetcard.jacoblin.cool/phukaoz?theme=light&font=Baloo%202&ext=activity)](https://leetcode.com/phukaoz)
-  [![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-light-mode-only)](https://codeforces.com/profile/phukaoz)
-  <!--- 
-  [![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/phukaoz) 
-  -->
+  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=phukaoz)](https://codeforces.com/profile/phukaoz)
   
 </p>
 
