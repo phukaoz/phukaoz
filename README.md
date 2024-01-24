@@ -1,4 +1,8 @@
 ## Hi!,
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=phukaoz&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />&nbsp;               
+</p>
+
 My name is Tanapat Namsomboon, student of the department of Computer Engineering from KMUTT.\
 I really addicted to competitive programming.
 - 🔭 I’m interested in Competitive Programming, Game Development, AI/Machine Learning.
@@ -26,6 +30,5 @@ I really addicted to competitive programming.
 - [Atcoder](https://atcoder.jp/users/phukaoz)
 - [Codechef](https://www.codechef.com/users/phukao)
 <br><br><br>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=phukaoz&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />&nbsp;               
-</p>
+![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/phukaoz/cf-stats/main/output/light_card.svg)
