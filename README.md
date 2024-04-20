@@ -28,16 +28,6 @@ I really addicted to competitive programming.
 
 #### Development Stuffs:
 
-<b>⚡ Github Stats</b>
-<p float="left">
-  
-![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/phukaoz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</p>
-
 <b>&#128200; Competitive Programming</b>
 <p float="left">
   
