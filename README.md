@@ -31,7 +31,7 @@ I really addicted to competitive programming.
 <b>&#128200; Competitive Programming</b>
 <p float="left">
   
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/phukaoz?theme=light&font=Baloo%202&ext=activity)](https://leetcode.com/phukaoz)
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/tanapatnamsomboon?theme=light&font=Baloo%202&ext=activity)](https://leetcode.com/tanapatnamsomboon)
   [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=phukaoz)](https://codeforces.com/profile/phukaoz)
   
 </p>
